@@ -1,0 +1,8 @@
+INPUT:
+- (void) $tappedTableView:(UIGestureRecognizer *)recognizer {
+
+GENERATED:
+static void) $tappedTableView:(UIGestureRecognizer * _logos_method$_ungrouped$SBSearchView$recognizer(SBSearchView*, SEL);
+
+EXPECTED:
+static void _logos_method$...
